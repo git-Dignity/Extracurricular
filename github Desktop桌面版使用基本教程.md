@@ -1,8 +1,9 @@
 # github Desktop桌面版使用基本教程 #
-<br />
+
 ## 首先你得有一个github账号，如果没有的话请注册。##
-<br />
-* github官网：
+=========================================
+
+* github官网:  
     > https://github.com 
 
 * github Desktop下载地址:       
