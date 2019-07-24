@@ -3,5 +3,7 @@
 * 分两种情况：第一种是非家庭版版的（加密Oracle修正即可），家庭版稍微麻烦点，详情请看：
     > https://blog.csdn.net/qq_42195688/article/details/80505329
 
+    > https://blog.csdn.net/cmqwan/article/details/81238630
+
 * 我还遇到一种比较坑的，就是以上方法试了无效，结果发现是windows版本问题，我就更新了windows最新版本就可以了   
    
